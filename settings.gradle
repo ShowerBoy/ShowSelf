@@ -1,0 +1,2 @@
+include ':app', ':lib_fly_api', ':lib_refresh_layout', ':lib_common', ':module_main', ':module_square', ':module_rank', ':module_team', ':module_discover', ':module_my', ':module_login'
+rootProject.name='ShowSelf'

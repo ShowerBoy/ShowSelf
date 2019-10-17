@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShowSelf.iml" filepath="$PROJECT_DIR$/ShowSelf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_common/lib_common.iml" filepath="$PROJECT_DIR$/lib_common/lib_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_fly_api/lib_fly_api.iml" filepath="$PROJECT_DIR$/lib_fly_api/lib_fly_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_refresh_layout/lib_refresh_layout.iml" filepath="$PROJECT_DIR$/lib_refresh_layout/lib_refresh_layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_discover/module_discover.iml" filepath="$PROJECT_DIR$/module_discover/module_discover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_login/module_login.iml" filepath="$PROJECT_DIR$/module_login/module_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_main/module_main.iml" filepath="$PROJECT_DIR$/module_main/module_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_my/module_my.iml" filepath="$PROJECT_DIR$/module_my/module_my.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_rank/module_rank.iml" filepath="$PROJECT_DIR$/module_rank/module_rank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_square/module_square.iml" filepath="$PROJECT_DIR$/module_square/module_square.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_team/module_team.iml" filepath="$PROJECT_DIR$/module_team/module_team.iml" />
+    </modules>
+  </component>
+</project>

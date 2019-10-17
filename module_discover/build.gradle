@@ -1,0 +1,18 @@
+apply from: "../module.build.gradle"
+
+android {
+    defaultConfig {
+        if (isModule.toBoolean()) {
+            applicationId "com.showself.module.discover"
+        }
+    }
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    api project(':lib_common')
+    annotationProcessor rootProject.ext.dependencies["arouter-compiler"]
+    annotationProcessor rootProject.ext.dependencies["dagger-compiler"]
+
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">module_main</string>
+    <string name="title_news">新闻</string>
+    <string name="title_find">发现</string>
+    <string name="title_square">广场</string>
+    <string name="title_rank">排行</string>
+    <string name="title_team">护卫队</string>
+    <string name="title_discover">发现</string>
+    <string name="title_my">我的</string>
+    <string name="company_email">思享时光@2015.showself.com</string>
+</resources>
